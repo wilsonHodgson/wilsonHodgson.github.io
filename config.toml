@@ -2,6 +2,7 @@ baseURL = "https://wilsonhodgson.github.io"
 languageCode = "en-us"
 title = "Wilson's Site"
 theme = "Blogpaper"
+canonifyURLs = true
 
 [author]
 name = "Wilson Hodgson"
