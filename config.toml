@@ -1,0 +1,23 @@
+baseURL = "http://wilsonHodgson.github.io/"
+languageCode = "en-us"
+title = "Wilson's Site"
+theme = "Blogpaper"
+
+[author]
+name = "Wilson Hodgson"
+
+[params]
+description = "A website acting as an index for any projects, ideas, or announcements I have."
+subtitleLength = 25
+
+[[menu.main]]
+name = "portfolio"
+url = "/portfolio"
+
+[[menu.main]]
+name = "github"
+url = "https://github.com/wilsonHodgson"
+
+[[menu.main]]
+name = "linkedIn"
+url = "https://www.linkedin.com/in/wilson-hodgson-hoffmeyer-752013108/"
